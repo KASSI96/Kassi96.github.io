@@ -65,7 +65,7 @@
         <section id="publications" class="card">
           <h2>Publications choisies</h2>
           <ol>
-            <li>O. Kassi, N. Klutchnikoff, V. Patilea. "Learning the regularity of multivariate functional data". <em>Electronic Journal of Statistics</em>, 9(2): 4174-4229 (2025). <a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Learning-the-regularity-of-multivariate-functional-data/10.1214/25-EJS2433.full">PDF</a> / <a href="10.1214/25-EJS2433">DOI</a></li>
+            <li>O. Kassi, N. Klutchnikoff, V. Patilea. "Learning the regularity of multivariate functional data". <em>Electronic Journal of Statistics. DOI: 10.1214/25-EJS2433</em>, 9(2): 4174-4229 (2025). <a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Learning-the-regularity-of-multivariate-functional-data/10.1214/25-EJS2433.full">PDF</a></li>
             <li>...</li>
           </ol>
           <p class="muted">Pour une liste complète : <a href="#">Google Scholar</a> • <a href="#">ORCID</a> • <a href="#">BibTeX</a></p>
