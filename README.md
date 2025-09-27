@@ -58,7 +58,7 @@
           <h3>Thèmes</h3>
           <ul class="simple">
             <li>Thème 1 : functional data analysis</li>
-            <li>Thème 2 : nonparametric statistics
+            <li>Thème 2 : nonparametric statistics</li>
           </ul>
         </section>
 
