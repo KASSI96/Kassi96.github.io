@@ -1,4 +1,4 @@
-# Kassi96.github.io
+
 <!doctype html>
 <!--
   Template minimal pour une page perso GitHub Pages.
@@ -11,7 +11,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Prénom NOM — Chercheur</title>
+  <title>Omar KASSI — Chercheur</title>
   <style>
     :root{--maxw:900px;--accent:#0b63ce}
     body{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;line-height:1.45;margin:0;padding:0;color:#111}
@@ -38,7 +38,7 @@
       <div class="avatar" aria-hidden="true"></div>
       <div>
         <h1>Prénom NOM</h1>
-        <div class="muted">Statut / Poste — Affiliation</div>
+        <div class="muted">Research assistant at CREST-ENSAI</div>
         <p class="lead">Brève phrase (1-2 lignes) décrivant tes thématiques de recherche principales.</p>
         <nav>
           <a href="#recherche">Recherche</a>
