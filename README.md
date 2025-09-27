@@ -65,7 +65,7 @@
         <section id="publications" class="card">
           <h2>Publications choisies</h2>
           <ol>
-            <li>Nom, Prénom. "Titre de l'article". <em>Journal</em>, année. <a href="#">PDF</a> / <a href="#">DOI</a></li>
+            <li>O. Kassi, N. Klutchnikoff, V. Patilea. "Learning the regularity of multivariate functional data". <em>Electronic Journal of Statistics</em>, 9(2): 4174-4229 (2025). <a href="#">PDF</a> / <a href="#">DOI</a></li>
             <li>...</li>
           </ol>
           <p class="muted">Pour une liste complète : <a href="#">Google Scholar</a> • <a href="#">ORCID</a> • <a href="#">BibTeX</a></p>
