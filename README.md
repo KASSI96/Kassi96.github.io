@@ -37,7 +37,7 @@
     <header>
       <div class="avatar" aria-hidden="true"></div>
       <div>
-        <h1>Prénom NOM</h1>
+        <h1>Omar KASSI</h1>
         <div class="muted">Research assistant at CREST-ENSAI</div>
         <p class="lead">Brève phrase (1-2 lignes) décrivant tes thématiques de recherche principales.</p>
         <nav>
@@ -57,9 +57,8 @@
           <p>Résumé bref de tes axes de recherche (2-4 phrases).</p>
           <h3>Thèmes</h3>
           <ul class="simple">
-            <li>Thème 1 — ex: nonparametric statistics / functional data analysis</li>
-            <li>Thème 2 — ex: inference optimale</li>
-            <li>Thème 3</li>
+            <li>Thème 1 : functional data analysis</li>
+            <li>Thème 2 : nonparametric statistics
           </ul>
         </section>
 
