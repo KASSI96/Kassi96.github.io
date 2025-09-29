@@ -39,7 +39,7 @@
       <div>
         <h1>Omar KASSI</h1>
         <div class="muted">Research assistant at CREST-ENSAI</div>
-        <p class="lead">Brève phrase (1-2 lignes) décrivant tes thématiques de recherche principales.</p>
+        <p class="lead">I am currently a research assistant at CREST-ENSAI working with Valentin Patilea.</p>
         <nav>
           <a href="#recherche">Recherche</a>
           <a href="#publications">Publications</a>
@@ -54,7 +54,7 @@
       <div>
         <section id="recherche" class="card">
           <h2>Recherche</h2>
-          <p>Résumé bref de tes axes de recherche (2-4 phrases).</p>
+          <p>My research focuses on developing methods that are both theoretically sound and practically effective in functional data analysis and nonparametric statistics, with an emphasis on the non-asymptotic properties of statistical procedures.</p>
           <h3>Thèmes</h3>
           <ul class="simple">
             <li>Thème 1 : functional data analysis</li>
@@ -66,6 +66,7 @@
           <h2>Publications choisies</h2>
           <ol>
             <li>O. Kassi, N. Klutchnikoff, V. Patilea. "Learning the regularity of multivariate functional data". <em>Electronic Journal of Statistics. DOI: 10.1214/25-EJS2433</em>, 9(2): 4174-4229 (2025). <a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Learning-the-regularity-of-multivariate-functional-data/10.1214/25-EJS2433.full">PDF</a></li>
+            <li>O. Kassi, SGW. Wang. "Structural adaptation via directional regularity: rate accelerated estimation in multivariate functional data".Bernoulli (major revision requested). <a href="https://arxiv.org/abs/2409.00817">PDF</a> </li>
             <li>...</li>
           </ol>
           <p class="muted">Pour une liste complète : <a href="#">Google Scholar</a> • <a href="#">ORCID</a> • <a href="#">BibTeX</a></p>
