@@ -67,7 +67,7 @@
           <ol>
             <li>O. Kassi, N. Klutchnikoff, V. Patilea. "Learning the regularity of multivariate functional data". <em>Electronic Journal of Statistics. DOI: 10.1214/25-EJS2433</em>, 9(2): 4174-4229 (2025). <a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Learning-the-regularity-of-multivariate-functional-data/10.1214/25-EJS2433.full">PDF</a></li>
             <li>O. Kassi, SGW. Wang. "Structural adaptation via directional regularity: rate accelerated estimation in multivariate functional data".Bernoulli (major revision requested). <a href="https://arxiv.org/abs/2409.00817">PDF</a> </li>
-            <li>...</li>
+            <li>O. Kassi, V. Patilea. " Optimal inference for the mean of random  functions"</li>
           </ol>
           <p class="muted">Pour une liste complète : <a href="#">Google Scholar</a> • <a href="#">ORCID</a> • <a href="#">BibTeX</a></p>
         </section>
@@ -93,8 +93,8 @@
         <section class="card">
           <h3>CV & Contact</h3>
           <p class="muted">Télécharger : <a class="btn" href="#">CV (PDF)</a></p>
-          <p>Email : <a href="mailto:email@exemple.com">email@exemple.com</a></p>
-          <p class="muted">Liens : <a href="#">GitHub</a> • <a href="#">Google Scholar</a> • <a href="#">ORCID</a></p>
+          <p>Email : <a href="mailto:email@exemple.com">omar.kassi@ensai.fr</a></p>
+          <p class="muted">Liens : <a href="#">GitHub</a> • <a href="https://scholar.google.com/citations?user=FNVKxr8AAAAJ&hl=fr">Google Scholar</a></p>
         </section>
 
         <section class="card">
@@ -113,9 +113,7 @@
       </aside>
     </main>
 
-    <footer>
-      <div class="muted">Site généré manuellement — hébergé via GitHub Pages. Si tu veux que je remplisse ce template avec tes infos (CV, 5 publications, liste de conférences, etc.), colle-les ici et je m'en occupe.</div>
-    </footer>
+    
   </div>
 </body>
 </html>
