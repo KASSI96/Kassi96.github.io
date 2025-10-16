@@ -26,7 +26,7 @@
 <body>
   <div class="wrap">
     <header>
-      <img src="images/1000058231.jpg" alt="Photo de Omar Kassi"  width="120" height="120" class="avatar">
+      <img src="images/1000058231.jpg" alt="Photo de Omar Kassi"  width="150" height="150" class="avatar">
 
       <div>
         <h1>Omar KASSI</h1>
