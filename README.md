@@ -1,12 +1,3 @@
-
-<!doctype html>
-<!--
-  Template minimal pour une page perso GitHub Pages.
-  Instructions :
-   1) Remplace les placeholders (NOM, Affiliation, email, ORCID, etc.) par tes infos.
-   2) Sauvegarde ce fichier sous index.html à la racine du dépôt <ton-user>.github.io
-   3) Ajoute des fichiers /courses /talks /publications si nécessaire.
--->
 <html lang="fr">
 <head>
   <meta charset="utf-8">
