@@ -26,7 +26,8 @@
 <body>
   <div class="wrap">
     <header>
-      <div class="avatar" aria-hidden="true"></div>
+      <img src="blob/main/images/1000058231.jpg" alt="Photo de Omar Kassi" class="avatar">
+
       <div>
         <h1>Omar KASSI</h1>
         <div class="muted">Research assistant at CREST-ENSAI</div>
